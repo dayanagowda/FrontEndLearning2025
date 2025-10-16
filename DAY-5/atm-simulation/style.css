@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(135deg, #7eb1e9, #919a3c);
+  color: #333;
+}
+
+.atm-card {
+  width: 100%;
+  max-width: 400px;
+  background: #fff;
+  border-radius: 15px;
+}
+
+input {
+  border-radius: 8px;
+}
+
+button {
+  border-radius: 30px;
+}
+
+.operation-section {
+  margin-top: 30px;
+}
